@@ -1,0 +1,11 @@
+[
+	{
+		"uuid": "ac617bb89d854f399ee71d5cf493b155",
+		"url": "https://github.com/clulab/gentlenlp/blob/e3e5a69ebff7e9bda7476d57631f708c0769527a/python/chap07_ffnn.py#L46-L48",
+		"repo": "clulab/gentlenlp",
+		"hash": "e3e5a69ebff7e9bda7476d57631f708c0769527a",
+		"file": "python/chap07_ffnn.py",
+		"start_line": 46,
+		"end_line": 48
+	}
+]

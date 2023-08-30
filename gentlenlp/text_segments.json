@@ -1,0 +1,1 @@
+[{"uuid": "133e18e7ea434d4b8a20ed1d8b473a35", "source_name": "gentlenlp", "start": 235, "end": 429, "text": "Remaining fairly simple, our network will consist of three neuron layers that are fully connected: an input layer that stores the input features, a hidden intermediate layer, and an output layer"}]
